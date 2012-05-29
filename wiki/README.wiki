@@ -1,0 +1,18 @@
+#summary Tells you how to play the game and use the level editor
+#labels README
+
+= Introduction =
+
+We have two files up for alpha testing, one is our actual game and the other is the level editor.  If you would please take a little time to try out both, that would be super wicked awesome.  We're open to suggestions for the level editor, as it's been a large part of our project and has a large impact on the game itself.
+
+Below you will find the controls for both alphas and tips for use.
+
+= Level Editor =
+
+There are two windows with the level editor, a "tool bar" and an interactive screen with the map on it.
+
+To place an item on the screen, select what you would like to place from the dropdown menu in the tool box.  Press the 1 key and click on the square in the map where you would like place the object.  
+
+You can move around the map by using the mouse.  Press the space bar to rotate.  The 'j' and 'k' buttons also do a parabolic zoom in.
+
+= The Lost Levels =
