@@ -13,6 +13,7 @@ There are two windows with the level editor, a "tool bar" and an interactive scr
 
 To place an item on the screen, select what you would like to place from the dropdown menu in the tool box.  Press the 1 key and click on the square in the map where you would like place the object.  
 
-You can move around the map by using the mouse.  Press the space bar to rotate.  The 'j' and 'k' buttons also do a parabolic zoom in.
+You can move around the map by using the mouse.  Press the space bar or the middle mouse button. to rotate.  Use the scroll wheel to zoom in and out.
 
 = The Lost Levels =
+So we have a tutorial map already pre-loaded into the game for now. The camera controls are the same as the level editor. Use the right mouse button to move the character (Guy) from place to place. 
